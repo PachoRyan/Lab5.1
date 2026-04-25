@@ -9,7 +9,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Flask Docker App</title>
+        <title>Flask Docker App :D</title>
         <style>
             body { font-family: Arial, sans-serif; margin: 50px; }
             .container { max-width: 600px; margin: 0 auto; }
